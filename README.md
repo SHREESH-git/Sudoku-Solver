@@ -129,31 +129,6 @@ bool Backtracking(int M[9][9]) {
 
 ---
 
-## 🛠 How to Compile & Run
-
-### Compile:
-```bash
-g++ sudoku_solver.cpp -o sudoku_solver
-```
-
-### Run:
-```bash
-./sudoku_solver
-```
-
----
-
-## 📁 Folder Structure
-
-```
-.
-├── sudoku_solver.cpp
-├── README.md
-└── sample_puzzle.txt (optional)
-```
-
----
-
 ## 🏁 Final Thoughts
 
 This project not only showcases your understanding of recursion and backtracking but also demonstrates your ability to build scalable, modular logic — key skills interviewers look for in software engineers.

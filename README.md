@@ -6,7 +6,7 @@ This project is a command-line Sudoku Solver written in **C++** using the **Back
 
 ## 📌 Problem Statement
 
-> "I implemented a Sudoku Solver using the backtracking algorithm. The program fills an incomplete 9x9 grid by recursively placing digits from 1 to 9 while following all Sudoku constraints: unique values in each row, column, and 3x3 subgrid."
+> I implemented a Sudoku Solver using the backtracking algorithm. The program fills an incomplete 9x9 grid by recursively placing digits from 1 to 9 while following all Sudoku constraints: unique values in each row, column, and 3x3 subgrid.
 
 ---
 
